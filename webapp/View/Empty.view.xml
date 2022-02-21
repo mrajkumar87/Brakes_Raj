@@ -1,0 +1,7 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m"
+
+    controllerName="tcs.fin.payroll.controller.Empty">
+
+    <Image width="20%" height="30%" src="Raj.jfif"></Image>
+    <Label text="Hi"></Label>
+</mvc:View>
